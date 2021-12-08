@@ -11,6 +11,9 @@ export default createTheme({
     secondary: {
       main: '#AA3DBA',
     },
+    inherit: {
+      main: '#fff'
+    }
   },
   typography: {
     fontFamily: 'NunitoSans, Arial',
