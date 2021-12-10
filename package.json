@@ -1,6 +1,7 @@
 {
   "name": "soul-divina",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "homepage": "https://www.souldivina.com.br",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.0",
